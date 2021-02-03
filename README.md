@@ -1,5 +1,7 @@
 # @marlonmarcello/vite-plugin-pug
 
+**NOTE:** Discontinued, please see https://github.com/vitejs/vite/issues/1861#issuecomment-772746928
+-----------------------
 This plugin adds support for the [Pug](https://pugjs.org/) template engine to [Vite](https://vitejs.dev/).
 
 ### Install
