@@ -1,6 +1,6 @@
 {
   "name": "@marlonmarcello/vite-plugin-pug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin adds support for the Pug template engine to Vite.",
   "main": "index.js",
   "license": "MIT",
