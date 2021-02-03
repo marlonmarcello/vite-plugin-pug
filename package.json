@@ -1,0 +1,27 @@
+{
+  "name": "@marlonmarcello/vite-plugin-pug",
+  "version": "1.0.0",
+  "description": "This plugin adds support for the Pug template engine to Vite.",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/marlonmarcello/nowpack-plugin-pug/blob/main/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marlonmarcello/nowpack-plugin-pug.git"
+  },
+  "engines": {
+    "node": ">= 12.0.0"
+  },
+  "keywords": [
+    "vite",
+    "pug",
+    "vite-plugin"
+  ],
+  "author": {
+    "name": "Marlon Marcello",
+    "email": "marlon.marcello@gmail.com"
+  },
+  "dependencies": {
+    "pug": "^3.0.0"
+  }
+}
